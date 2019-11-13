@@ -6,8 +6,9 @@ Project untuk tugas besar PBO
 
  * Clone repository ini 
  ```bash
-$ git clone https://github.com/faisalridwan/final-task-object-oriented-programming.git
+$ git clone https://github.com/faisalridwan/final-task-object-oriented-programming.git 
 ```
+atau download as zip project ini [disini](https://github.com/faisalridwan/final-task-object-oriented-programming/archive/master.zip)
  * Silahkan Download JCalender [disini](http://www.java2s.com/Code/JarDownload/jcalendar/jcalendar-1.4.jar.zip)
  * Silahkan Download MySQL Driver jika kamu menggunakan Neatbeans v11 [disini](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/find-ur-pal/mysql-connector-java-5.1.18-bin.jar)
  * Tambahkan JCalender and MySQL Driver di library netbeans.
@@ -39,6 +40,12 @@ $ git clone https://github.com/faisalridwan/final-task-object-oriented-programmi
 * i. Jika anda ingin menginput pemasukan keuangan maka pilih menu pemasukan dan jika anda ingin menginput pengeluaran silahkan pilih menu pengeluaran.
 * j. Pada menu pemasukan akan menampilkan form pemasukan yang terdiri dari nama pemasukan, dan jumlah pemasukan.
 * k. Pada menu pengeluaran akan menampilkan form pengeluaran yang terdiri dari nama pengeluaran, kategori pengeluaran, dan jumlah pengeluaran.
+
+## Lainnya
+
+Jika ingin menggunakan project ini atau butuh bantuan yang membuat error dalam project ini silahkan email saya [me@faisalridwan.com](mailto:me@faisalridwan.com) atau [faisalridwansiregar@gmail.com](mailto:faisalridwansiregar@gmail.com)
+
+
  
 
 
