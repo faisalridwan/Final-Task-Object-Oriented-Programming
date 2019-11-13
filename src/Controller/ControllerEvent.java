@@ -16,7 +16,6 @@ import javax.swing.JPasswordField;
 import java.awt.event.*;
 import java.text.DateFormat;
 import java.util.*;
-import javafx.scene.control.ComboBox;
 import javax.swing.table.DefaultTableModel;
 /**
  *

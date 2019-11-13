@@ -45,8 +45,10 @@ public class Database {
             String pass = "";
             conn = DriverManager.getConnection(url, user, pass);
             stmt = conn.createStatement();
-        } catch (SQLException ex) {
+        } catch (SQLException ex ) {
+            JOptionPane.showConfirmDialog(null, "Belum ada Koneksi !\nSilahkan Aktifkan XAMPP\nLalu START Ulang");
             Logger.getLogger(Database.class.getName()).log(Level.SEVERE, null, ex);
+            
         }
     }
     
